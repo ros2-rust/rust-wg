@@ -1,4 +1,4 @@
-# Working group meeting YYYMMDD
+# Working group meeting YYY-MM-DD
 
 ## Overview
 
